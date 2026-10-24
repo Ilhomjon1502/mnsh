@@ -74,5 +74,5 @@ Allow: /
 User-agent: DuckAssistBot
 Allow: /
 
-Sitemap: https://ilhomjon1502.github.io/mnsh/sitemap.xml
-# LLM uchun qisqa tavsif: https://ilhomjon1502.github.io/mnsh/llms.txt
+Sitemap: https://mnsh.uz/sitemap.xml
+# LLM uchun qisqa tavsif: https://mnsh.uz/llms.txt
