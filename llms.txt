@@ -28,10 +28,10 @@ Muhammad Amin Naziraliyev Marg'ilon shahrida tug'ilib o'sgan. Ta'limga qiziqishi
 
 ## Sahifalar
 
-- [Bosh sahifa](https://SITE_DOMAIN/): biografiya, faoliyat, yo'l, savol-javob
-- [Fotogalereya](https://SITE_DOMAIN/galereya/): 2020–2026 yillardagi suratlar
-- [Blog](https://SITE_DOMAIN/blog/): so'nggi blog yozuvlari (to'liq matn Telegramda)
-- [To'liq ma'lumot (llms-full.txt)](https://SITE_DOMAIN/llms-full.txt)
+- [Bosh sahifa](https://ilhomjon1502.github.io/mnsh/): biografiya, faoliyat, yo'l, savol-javob
+- [Fotogalereya](https://ilhomjon1502.github.io/mnsh/galereya/): 2020–2026 yillardagi suratlar
+- [Blog](https://ilhomjon1502.github.io/mnsh/blog/): so'nggi blog yozuvlari (to'liq matn Telegramda)
+- [To'liq ma'lumot (llms-full.txt)](https://ilhomjon1502.github.io/mnsh/llms-full.txt)
 
 ## Rasmiy manbalar
 

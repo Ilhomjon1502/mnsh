@@ -3,7 +3,7 @@
 Statik sayt (HTML/CSS/JS). Sahifalar `tools/build.py` orqali hosil bo'ladi:
 
 ```bash
-python tools/build.py https://sizning-domen.uz
+python tools/build.py https://ilhomjon1502.github.io/mnsh
 ```
 
 - `tools/process_images.py` — suratlarni optimallashtiradi (xom suratlar `images/` papkasida, repoga kiritilmagan)

@@ -1,6 +1,6 @@
 # Muhammad Amin Naziraliyev — to'liq ma'lumot
 
-> Rasmiy sayt: https://SITE_DOMAIN/ · Yangilangan: 2026-10-24 · Til: o'zbek (lotin)
+> Rasmiy sayt: https://ilhomjon1502.github.io/mnsh/ · Yangilangan: 2026-10-24 · Til: o'zbek (lotin)
 
 ## Qisqacha ma'lumot
 
@@ -101,21 +101,21 @@ Suv bo'yida yurish va yozish, kitob o'qish, do'stlar bilan suhbat qurish. U hazi
 
 ## Fotogalereya
 
-- 2026-05-13 — Qo'qon: O'rda ziyoratgohi (https://SITE_DOMAIN/assets/img/gallery/2026-05-13-2905-l.webp)
-- 2026-04-22 — So'qoq, Begistash: 8 km, 6 soatlik yurish (hiking) (https://SITE_DOMAIN/assets/img/gallery/2026-04-22-2866-l.webp)
-- 2023-06-04 — Marg'ilonda IT seminari (https://SITE_DOMAIN/assets/img/gallery/2023-06-04-2523-l.webp)
-- 2023-06-03 — Toshloq tumani yoshlari uchun tadbir (https://SITE_DOMAIN/assets/img/gallery/2023-06-03-2516-l.webp)
-- 2023-05-24 — Inha universiteti rektori Marg'ilonda: Codial filialidagi seminar (https://SITE_DOMAIN/assets/img/gallery/2023-05-24-2494-l.webp)
-- 2023-02-21 — Farg'ona shahar maktabida IT seminari (https://SITE_DOMAIN/assets/img/gallery/2023-02-21-2400-l.webp)
-- 2022-11-29 — DevFest 2022 dasturchilar tadbiri (https://SITE_DOMAIN/assets/img/gallery/2022-11-29-2273-l.webp)
-- 2022-11-21 — Mohirdev platformasi vakillari Codial akademiyasida mehmon (https://SITE_DOMAIN/assets/img/gallery/2022-11-21-2241-l.webp)
-- 2022-11-02 — Farg'onada «Biznes marafon 3.0» tadbiri (https://SITE_DOMAIN/assets/img/gallery/2022-11-02-2205-l.webp)
-- 2022-10-06 — «Farg'ona yoshlariga IT haqida tushuncha» seminari, Farg'ona (https://SITE_DOMAIN/assets/img/gallery/2022-10-06-2124-l.webp)
-- 2021-11-10 — #100Maktab loyihasi: Toshloq tumani 2-maktabida IT seminari (https://SITE_DOMAIN/assets/img/gallery/2021-11-10-1544-l.webp)
-- 2021-05-24 — Codial akademiyasida seminar ishtirokchilari (https://SITE_DOMAIN/assets/img/gallery/2021-05-24-1331-l.webp)
-- 2021-05-23 — Yoshlar agentligida «Zamonaviy kasblarning o'rni» seminari (https://SITE_DOMAIN/assets/img/gallery/2021-05-23-1328-l.webp)
-- 2021-02-28 — Codial akademiyasida MeetUp: dasturlashni o'rganishning samarali usullari (https://SITE_DOMAIN/assets/img/gallery/2021-02-28-1196-l.webp)
-- 2021-02-06 — IT-Park tomonidan yoshlar bilan uchrashuv, Raqamli texnologiyalar markazi (https://SITE_DOMAIN/assets/img/gallery/2021-02-06-1160-l.webp)
-- 2021-01-31 — Yoshlar agentligi vakillarining Codial akademiyasiga tashrifi (https://SITE_DOMAIN/assets/img/gallery/2021-01-31-1154-l.webp)
-- 2020-11-03 — Toshkentdagi Inha universiteti bitiruv marosimi (https://SITE_DOMAIN/assets/img/gallery/2020-11-03-1022-l.webp)
-- 2020-10-22 — Marg'ilonlik o'quvchilar bilan Android kursining birinchi bosqichi yakuni (https://SITE_DOMAIN/assets/img/gallery/2020-10-22-961-l.webp)
+- 2026-05-13 — Qo'qon: O'rda ziyoratgohi (https://ilhomjon1502.github.io/mnsh/assets/img/gallery/2026-05-13-2905-l.webp)
+- 2026-04-22 — So'qoq, Begistash: 8 km, 6 soatlik yurish (hiking) (https://ilhomjon1502.github.io/mnsh/assets/img/gallery/2026-04-22-2866-l.webp)
+- 2023-06-04 — Marg'ilonda IT seminari (https://ilhomjon1502.github.io/mnsh/assets/img/gallery/2023-06-04-2523-l.webp)
+- 2023-06-03 — Toshloq tumani yoshlari uchun tadbir (https://ilhomjon1502.github.io/mnsh/assets/img/gallery/2023-06-03-2516-l.webp)
+- 2023-05-24 — Inha universiteti rektori Marg'ilonda: Codial filialidagi seminar (https://ilhomjon1502.github.io/mnsh/assets/img/gallery/2023-05-24-2494-l.webp)
+- 2023-02-21 — Farg'ona shahar maktabida IT seminari (https://ilhomjon1502.github.io/mnsh/assets/img/gallery/2023-02-21-2400-l.webp)
+- 2022-11-29 — DevFest 2022 dasturchilar tadbiri (https://ilhomjon1502.github.io/mnsh/assets/img/gallery/2022-11-29-2273-l.webp)
+- 2022-11-21 — Mohirdev platformasi vakillari Codial akademiyasida mehmon (https://ilhomjon1502.github.io/mnsh/assets/img/gallery/2022-11-21-2241-l.webp)
+- 2022-11-02 — Farg'onada «Biznes marafon 3.0» tadbiri (https://ilhomjon1502.github.io/mnsh/assets/img/gallery/2022-11-02-2205-l.webp)
+- 2022-10-06 — «Farg'ona yoshlariga IT haqida tushuncha» seminari, Farg'ona (https://ilhomjon1502.github.io/mnsh/assets/img/gallery/2022-10-06-2124-l.webp)
+- 2021-11-10 — #100Maktab loyihasi: Toshloq tumani 2-maktabida IT seminari (https://ilhomjon1502.github.io/mnsh/assets/img/gallery/2021-11-10-1544-l.webp)
+- 2021-05-24 — Codial akademiyasida seminar ishtirokchilari (https://ilhomjon1502.github.io/mnsh/assets/img/gallery/2021-05-24-1331-l.webp)
+- 2021-05-23 — Yoshlar agentligida «Zamonaviy kasblarning o'rni» seminari (https://ilhomjon1502.github.io/mnsh/assets/img/gallery/2021-05-23-1328-l.webp)
+- 2021-02-28 — Codial akademiyasida MeetUp: dasturlashni o'rganishning samarali usullari (https://ilhomjon1502.github.io/mnsh/assets/img/gallery/2021-02-28-1196-l.webp)
+- 2021-02-06 — IT-Park tomonidan yoshlar bilan uchrashuv, Raqamli texnologiyalar markazi (https://ilhomjon1502.github.io/mnsh/assets/img/gallery/2021-02-06-1160-l.webp)
+- 2021-01-31 — Yoshlar agentligi vakillarining Codial akademiyasiga tashrifi (https://ilhomjon1502.github.io/mnsh/assets/img/gallery/2021-01-31-1154-l.webp)
+- 2020-11-03 — Toshkentdagi Inha universiteti bitiruv marosimi (https://ilhomjon1502.github.io/mnsh/assets/img/gallery/2020-11-03-1022-l.webp)
+- 2020-10-22 — Marg'ilonlik o'quvchilar bilan Android kursining birinchi bosqichi yakuni (https://ilhomjon1502.github.io/mnsh/assets/img/gallery/2020-10-22-961-l.webp)

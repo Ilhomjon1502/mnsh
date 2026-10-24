@@ -8,13 +8,17 @@ Content lives in this file and in tools/data/*.json.
 """
 import json
 import os
+import re
 import sys
 from datetime import date
+from urllib.parse import urlparse
 from html import escape as e
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = (sys.argv[1] if len(sys.argv) > 1 else "https://SITE_DOMAIN").rstrip("/")
 TODAY = date.today().isoformat()
+# Sayt domen ildizida bo'lmasa (masalan github.io/mnsh), ichki havolalarga shu yo'l qo'shiladi.
+BASE = urlparse(SITE).path.rstrip("/")
 
 DATA = json.load(open(os.path.join(ROOT, "tools", "data", "gallery.json"), encoding="utf8"))
 OWNER, GALLERY = DATA["owner"], DATA["gallery"]
@@ -642,14 +646,16 @@ def feed():
 
 
 def manifest():
-    return json.dumps({"name": NAME, "short_name": "Muhammad Amin", "lang": "uz", "start_url": "/", "display": "standalone",
+    return json.dumps({"name": NAME, "short_name": "Muhammad Amin", "lang": "uz", "start_url": BASE + "/", "display": "standalone",
                        "background_color": "#f4f7f3", "theme_color": "#0b7d62",
-                       "icons": [{"src": "/assets/img/icon-192.png", "sizes": "192x192", "type": "image/png"},
-                                 {"src": "/assets/img/icon-512.png", "sizes": "512x512", "type": "image/png"}]},
+                       "icons": [{"src": BASE + "/assets/img/icon-192.png", "sizes": "192x192", "type": "image/png"},
+                                 {"src": BASE + "/assets/img/icon-512.png", "sizes": "512x512", "type": "image/png"}]},
                       ensure_ascii=False, indent=2)
 
 
 def write(path, text):
+    if BASE and path.endswith(".html"):
+        text = re.sub(r'(href|src)="/(?!/)', rf'\1="{BASE}/', text)
     full = os.path.join(ROOT, path)
     os.makedirs(os.path.dirname(full), exist_ok=True)
     with open(full, "w", encoding="utf8", newline="\n") as f:
