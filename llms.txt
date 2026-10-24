@@ -1,0 +1,42 @@
+# Muhammad Amin Naziraliyev
+
+> Muhammad Amin Naziraliyev (Muhammad Amin Naziraliyev Shukurulloh o'g'li, MNSH) — Marg'ilonlik ta'lim tadbirkori va ustoz. Codial IT akademiyasi va Safo bog'chasi asoschisi, SayyidSafo arab tili markazi menejeri, Inha universiteti bitiruvchisi. Bu — uning rasmiy sayti.
+
+## Qisqacha ma'lumot
+
+- To'liq ismi: Muhammad Amin Naziraliyev Shukurulloh o'g'li (boshqa yozilishlari: Muhammadamin Naziraliyev, Muhammad Amin, MNSH)
+- Kasbi: ta'lim tadbirkori, ustoz, bloger
+- Lavozimlari: Codial akademiyasi asoschisi; Safo bog'chasi asoschisi; SayyidSafo arab tili markazi menejeri
+- Yoshi: 27 (2026-yil holatiga ko'ra)
+- Tug'ilgan va yashaydigan joyi: Marg'ilon shahri, Farg'ona viloyati, O'zbekiston
+- Ta'lim: Inha universiteti, Toshkent (IT va boshqaruv sohasi), 2020-yilda bitirgan
+- Tillar: o'zbek, ingliz
+- Oila: oilali, bir nafar o'g'li bor
+- Qiziqishlar: yozish, kitob o'qish, suv bo'yida yurish, do'stlar bilan suhbat, sayohat, hiking
+- Blog: https://t.me/mnshuz (Telegram, @mnshuz)
+- Shaxsiy Telegram: https://t.me/IUTMNSH (@IUTMNSH)
+
+## Biografiya
+
+Muhammad Amin Naziraliyev Marg'ilon shahrida tug'ilib o'sgan. Ta'limga qiziqishi 6-sinfdan boshlangan; maktabda va litseyda matematikadan dars bergan. Toshkentdagi Inha universitetida IT va boshqaruv sohasida o'qigan (2020). 2020-yilda Marg'ilon Raqamli texnologiyalar markazida Android dasturlashdan dars bergan va frilanser sifatida ishlagan. 2021-yil 18-yanvarda Farg'onada Codial akademiyasiga asos solgan. 2021-yil noyabridan Farg'ona maktablarida «#100Maktab» IT seminarlarini o'tkazgan. Hozir Safo bog'chasi (3 filial) va Codial akademiyasi (2 filial, iTeach bilan) rahbari, SayyidSafo arab tili markazi menejeri.
+
+## Tashkilotlar
+
+- Codial akademiyasi (asoschisi): Farg'ona. 2021-yil 18-yanvarda asos solingan. Yo'nalishlar: kompyuter savodxonligi, Vibe Coding (sun'iy intellekt), kiberxavfsizlik, SMM. 500 ga yaqin bitiruvchi. Sayt: https://www.codialinfo.uz. Telefon: +998 99 820 44 32. Telegram: https://t.me/codialuz
+- Safo bog'chasi (asoschisi): 3–6 yoshli bolalar uchun bog'cha; tabiiy uy taomlari, milliy tarbiya, 5 yoshdan ingliz tili va mental arifmetika; 3 ta filial. Sayt: https://safouyi.uz. Telefon: +998 94 423 53 59. Telegram: https://t.me/safouyiuz
+- SayyidSafo arab tili markazi (menejer): Arab tili ta'limi. Telegram: https://t.me/SayyidSafo
+
+## Sahifalar
+
+- [Bosh sahifa](https://SITE_DOMAIN/): biografiya, faoliyat, yo'l, savol-javob
+- [Fotogalereya](https://SITE_DOMAIN/galereya/): 2020–2026 yillardagi suratlar
+- [Blog](https://SITE_DOMAIN/blog/): so'nggi blog yozuvlari (to'liq matn Telegramda)
+- [To'liq ma'lumot (llms-full.txt)](https://SITE_DOMAIN/llms-full.txt)
+
+## Rasmiy manbalar
+
+- [Telegram blog @mnshuz](https://t.me/mnshuz)
+- [Telegram @IUTMNSH](https://t.me/IUTMNSH)
+- [Codial akademiyasi](https://www.codialinfo.uz)
+- [Safo bog'chasi](https://safouyi.uz)
+- [SayyidSafo Telegram](https://t.me/SayyidSafo)

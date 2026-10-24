@@ -1,0 +1,276 @@
+{
+ "owner": {
+  "hero": {
+   "file": "assets/img/owner/hero.webp",
+   "w": 640,
+   "h": 640,
+   "alt": "Muhammad Amin Naziraliyev kostyumda, Codial akademiyasi o'quv xonasida"
+  },
+  "speaker": {
+   "file": "assets/img/owner/speaker.webp",
+   "w": 640,
+   "h": 640,
+   "alt": "Muhammad Amin Naziraliyev minbarda so'zlamoqda"
+  },
+  "reading": {
+   "file": "assets/img/owner/reading.webp",
+   "w": 640,
+   "h": 640,
+   "alt": "Muhammad Amin Naziraliyev kitob o'qimoqda"
+  },
+  "meeting": {
+   "file": "assets/img/owner/meeting.webp",
+   "w": 640,
+   "h": 640,
+   "alt": "Muhammad Amin Naziraliyev majlisda"
+  },
+  "class": {
+   "file": "assets/img/owner/class.webp",
+   "w": 640,
+   "h": 640,
+   "alt": "Muhammad Amin Naziraliyev seminar ishtirokchilari orasida"
+  },
+  "talk": {
+   "file": "assets/img/owner/talk.webp",
+   "w": 640,
+   "h": 640,
+   "alt": "Muhammad Amin Naziraliyev suhbat paytida"
+  }
+ },
+ "gallery": [
+  {
+   "date": "2026-05-13",
+   "post": 2905,
+   "caption": "Qo'qon: O'rda ziyoratgohi",
+   "alt": "Qo'qondagi O'rda ziyoratgohi",
+   "small": "assets/img/gallery/2026-05-13-2905-s.webp",
+   "sw": 640,
+   "sh": 480,
+   "large": "assets/img/gallery/2026-05-13-2905-l.webp",
+   "lw": 800,
+   "lh": 600,
+   "url": "https://t.me/mnshuz/2905"
+  },
+  {
+   "date": "2026-04-22",
+   "post": 2866,
+   "caption": "So'qoq, Begistash: 8 km, 6 soatlik yurish (hiking)",
+   "alt": "Tog'da hiking, So'qoq Begistash",
+   "small": "assets/img/gallery/2026-04-22-2866-s.webp",
+   "sw": 600,
+   "sh": 800,
+   "large": "assets/img/gallery/2026-04-22-2866-l.webp",
+   "lw": 600,
+   "lh": 800,
+   "url": "https://t.me/mnshuz/2866"
+  },
+  {
+   "date": "2023-06-04",
+   "post": 2523,
+   "caption": "Marg'ilonda IT seminari",
+   "alt": "Marg'ilon shahridagi IT seminari",
+   "small": "assets/img/gallery/2023-06-04-2523-s.webp",
+   "sw": 640,
+   "sh": 359,
+   "large": "assets/img/gallery/2023-06-04-2523-l.webp",
+   "lw": 800,
+   "lh": 449,
+   "url": "https://t.me/mnshuz/2523"
+  },
+  {
+   "date": "2023-06-03",
+   "post": 2516,
+   "caption": "Toshloq tumani yoshlari uchun tadbir",
+   "alt": "Toshloq tumani yoshlari tadbiri",
+   "small": "assets/img/gallery/2023-06-03-2516-s.webp",
+   "sw": 640,
+   "sh": 359,
+   "large": "assets/img/gallery/2023-06-03-2516-l.webp",
+   "lw": 800,
+   "lh": 449,
+   "url": "https://t.me/mnshuz/2516"
+  },
+  {
+   "date": "2023-05-24",
+   "post": 2494,
+   "caption": "Inha universiteti rektori Marg'ilonda: Codial filialidagi seminar",
+   "alt": "Inha universiteti rektori bilan Marg'ilondagi uchrashuv",
+   "small": "assets/img/gallery/2023-05-24-2494-s.webp",
+   "sw": 640,
+   "sh": 481,
+   "large": "assets/img/gallery/2023-05-24-2494-l.webp",
+   "lw": 800,
+   "lh": 601,
+   "url": "https://t.me/mnshuz/2494"
+  },
+  {
+   "date": "2023-02-21",
+   "post": 2400,
+   "caption": "Farg'ona shahar maktabida IT seminari",
+   "alt": "Farg'ona shahar maktabidagi IT seminari",
+   "small": "assets/img/gallery/2023-02-21-2400-s.webp",
+   "sw": 640,
+   "sh": 360,
+   "large": "assets/img/gallery/2023-02-21-2400-l.webp",
+   "lw": 800,
+   "lh": 450,
+   "url": "https://t.me/mnshuz/2400"
+  },
+  {
+   "date": "2022-11-29",
+   "post": 2273,
+   "caption": "DevFest 2022 dasturchilar tadbiri",
+   "alt": "Google Developer Groups DevFest 2022",
+   "small": "assets/img/gallery/2022-11-29-2273-s.webp",
+   "sw": 640,
+   "sh": 480,
+   "large": "assets/img/gallery/2022-11-29-2273-l.webp",
+   "lw": 800,
+   "lh": 600,
+   "url": "https://t.me/mnshuz/2273"
+  },
+  {
+   "date": "2022-11-21",
+   "post": 2241,
+   "caption": "Mohirdev platformasi vakillari Codial akademiyasida mehmon",
+   "alt": "Mohirdev vakillari bilan suhbat, Codial akademiyasi",
+   "small": "assets/img/gallery/2022-11-21-2241-s.webp",
+   "sw": 640,
+   "sh": 480,
+   "large": "assets/img/gallery/2022-11-21-2241-l.webp",
+   "lw": 800,
+   "lh": 600,
+   "url": "https://t.me/mnshuz/2241"
+  },
+  {
+   "date": "2022-11-02",
+   "post": 2205,
+   "caption": "Farg'onada «Biznes marafon 3.0» tadbiri",
+   "alt": "Biznes marafon 3.0 tadbiri, Farg'ona",
+   "small": "assets/img/gallery/2022-11-02-2205-s.webp",
+   "sw": 640,
+   "sh": 426,
+   "large": "assets/img/gallery/2022-11-02-2205-l.webp",
+   "lw": 800,
+   "lh": 533,
+   "url": "https://t.me/mnshuz/2205"
+  },
+  {
+   "date": "2022-10-06",
+   "post": 2124,
+   "caption": "«Farg'ona yoshlariga IT haqida tushuncha» seminari, Farg'ona",
+   "alt": "Maktabdagi IT seminari, Farg'ona",
+   "small": "assets/img/gallery/2022-10-06-2124-s.webp",
+   "sw": 640,
+   "sh": 480,
+   "large": "assets/img/gallery/2022-10-06-2124-l.webp",
+   "lw": 800,
+   "lh": 600,
+   "url": "https://t.me/mnshuz/2124"
+  },
+  {
+   "date": "2021-11-10",
+   "post": 1544,
+   "caption": "#100Maktab loyihasi: Toshloq tumani 2-maktabida IT seminari",
+   "alt": "Maktab o'quvchilari uchun IT seminari, Toshloq tumani",
+   "small": "assets/img/gallery/2021-11-10-1544-s.webp",
+   "sw": 640,
+   "sh": 289,
+   "large": "assets/img/gallery/2021-11-10-1544-l.webp",
+   "lw": 800,
+   "lh": 361,
+   "url": "https://t.me/mnshuz/1544"
+  },
+  {
+   "date": "2021-05-24",
+   "post": 1331,
+   "caption": "Codial akademiyasida seminar ishtirokchilari",
+   "alt": "Codial akademiyasi seminari ishtirokchilari",
+   "small": "assets/img/gallery/2021-05-24-1331-s.webp",
+   "sw": 640,
+   "sh": 480,
+   "large": "assets/img/gallery/2021-05-24-1331-l.webp",
+   "lw": 800,
+   "lh": 600,
+   "url": "https://t.me/mnshuz/1331"
+  },
+  {
+   "date": "2021-05-23",
+   "post": 1328,
+   "caption": "Yoshlar agentligida «Zamonaviy kasblarning o'rni» seminari",
+   "alt": "Farg'ona viloyati Yoshlar agentligidagi seminar",
+   "small": "assets/img/gallery/2021-05-23-1328-s.webp",
+   "sw": 640,
+   "sh": 426,
+   "large": "assets/img/gallery/2021-05-23-1328-l.webp",
+   "lw": 800,
+   "lh": 533,
+   "url": "https://t.me/mnshuz/1328"
+  },
+  {
+   "date": "2021-02-28",
+   "post": 1196,
+   "caption": "Codial akademiyasida MeetUp: dasturlashni o'rganishning samarali usullari",
+   "alt": "Codial akademiyasi MeetUp ishtirokchilari Farg'onada",
+   "small": "assets/img/gallery/2021-02-28-1196-s.webp",
+   "sw": 640,
+   "sh": 295,
+   "large": "assets/img/gallery/2021-02-28-1196-l.webp",
+   "lw": 800,
+   "lh": 369,
+   "url": "https://t.me/mnshuz/1196"
+  },
+  {
+   "date": "2021-02-06",
+   "post": 1160,
+   "caption": "IT-Park tomonidan yoshlar bilan uchrashuv, Raqamli texnologiyalar markazi",
+   "alt": "IT-Park yoshlar uchrashuvi ishtirokchilari",
+   "small": "assets/img/gallery/2021-02-06-1160-s.webp",
+   "sw": 640,
+   "sh": 426,
+   "large": "assets/img/gallery/2021-02-06-1160-l.webp",
+   "lw": 800,
+   "lh": 533,
+   "url": "https://t.me/mnshuz/1160"
+  },
+  {
+   "date": "2021-01-31",
+   "post": 1154,
+   "caption": "Yoshlar agentligi vakillarining Codial akademiyasiga tashrifi",
+   "alt": "Codial akademiyasiga mehmonlar tashrifi, Farg'ona",
+   "small": "assets/img/gallery/2021-01-31-1154-s.webp",
+   "sw": 640,
+   "sh": 524,
+   "large": "assets/img/gallery/2021-01-31-1154-l.webp",
+   "lw": 800,
+   "lh": 655,
+   "url": "https://t.me/mnshuz/1154"
+  },
+  {
+   "date": "2020-11-03",
+   "post": 1022,
+   "caption": "Toshkentdagi Inha universiteti bitiruv marosimi",
+   "alt": "Inha universiteti bitiruv marosimi, Toshkent",
+   "small": "assets/img/gallery/2020-11-03-1022-s.webp",
+   "sw": 640,
+   "sh": 480,
+   "large": "assets/img/gallery/2020-11-03-1022-l.webp",
+   "lw": 800,
+   "lh": 600,
+   "url": "https://t.me/mnshuz/1022"
+  },
+  {
+   "date": "2020-10-22",
+   "post": 961,
+   "caption": "Marg'ilonlik o'quvchilar bilan Android kursining birinchi bosqichi yakuni",
+   "alt": "Android dasturlash kursi o'quvchilari guruhi, Marg'ilon",
+   "small": "assets/img/gallery/2020-10-22-961-s.webp",
+   "sw": 640,
+   "sh": 426,
+   "large": "assets/img/gallery/2020-10-22-961-l.webp",
+   "lw": 800,
+   "lh": 532,
+   "url": "https://t.me/mnshuz/961"
+  }
+ ]
+}
