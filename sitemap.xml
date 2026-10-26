@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-<url><loc>https://mnsh.uz/</loc><lastmod>2026-10-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority>
+<url><loc>https://mnsh.uz/</loc><lastmod>2026-10-26</lastmod><changefreq>weekly</changefreq><priority>1.0</priority>
 <image:image><image:loc>https://mnsh.uz/assets/img/owner/hero.webp</image:loc><image:caption>Muhammad Amin Naziraliyev kostyumda, Codial akademiyasi o&#x27;quv xonasida</image:caption></image:image>
 </url>
-<url><loc>https://mnsh.uz/galereya/</loc><lastmod>2026-10-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority>
+<url><loc>https://mnsh.uz/galereya/</loc><lastmod>2026-10-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority>
 <image:image><image:loc>https://mnsh.uz/assets/img/gallery/2026-05-13-2905-l.webp</image:loc><image:caption>Qo&#x27;qon: O&#x27;rda ziyoratgohi</image:caption></image:image>
 <image:image><image:loc>https://mnsh.uz/assets/img/gallery/2026-04-22-2866-l.webp</image:loc><image:caption>So&#x27;qoq, Begistash: 8 km, 6 soatlik yurish (hiking)</image:caption></image:image>
 <image:image><image:loc>https://mnsh.uz/assets/img/gallery/2023-06-04-2523-l.webp</image:loc><image:caption>Marg&#x27;ilonda IT seminari</image:caption></image:image>
@@ -23,6 +23,6 @@
 <image:image><image:loc>https://mnsh.uz/assets/img/gallery/2020-11-03-1022-l.webp</image:loc><image:caption>Toshkentdagi Inha universiteti bitiruv marosimi</image:caption></image:image>
 <image:image><image:loc>https://mnsh.uz/assets/img/gallery/2020-10-22-961-l.webp</image:loc><image:caption>Marg&#x27;ilonlik o&#x27;quvchilar bilan Android kursining birinchi bosqichi yakuni</image:caption></image:image>
 </url>
-<url><loc>https://mnsh.uz/blog/</loc><lastmod>2026-10-24</lastmod><changefreq>weekly</changefreq><priority>0.8</priority>
+<url><loc>https://mnsh.uz/blog/</loc><lastmod>2026-10-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority>
 </url>
 </urlset>

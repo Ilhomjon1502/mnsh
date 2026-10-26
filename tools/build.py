@@ -194,7 +194,7 @@ def head(title, desc, path, ld, og_image=None, og_type="website"):
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap">
 <link rel="stylesheet" href="/assets/css/style.css">
-<script>(function(){{var d=document.documentElement,t;d.classList.add('js');try{{t=localStorage.getItem('theme')}}catch(e){{}}if(!t){{t=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'}}d.setAttribute('data-theme',t);setTimeout(function(){{if(!window.__ok)d.classList.remove('js')}},4000)}})()</script>
+<script>(function(){{var d=document.documentElement,t;d.classList.add('js');try{{t=localStorage.getItem('theme')}}catch(e){{}}if(t!=='dark'){{t='light'}}d.setAttribute('data-theme',t);setTimeout(function(){{if(!window.__ok)d.classList.remove('js')}},4000)}})()</script>
 {jsonld(*ld)}
 </head>
 """
